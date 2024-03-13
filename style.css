@@ -1,0 +1,59 @@
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 5;
+}
+#main_p{
+    flex-wrap: wrap;
+}
+section{
+    background-color: rgb(253, 241, 255);
+    float: right;
+    width: 75%;
+    height: 1300px;
+}
+aside{
+    background-color: rgb(209, 131, 223);
+    width: 25%;
+    float: left;
+    height: 1300px;
+
+}
+.skills{
+    padding-left: 50px;
+}
+.skills h2{
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(198, 210, 255);
+}
+
+#photo{
+    width: 100%;
+    height: 370px;
+}
+#center{
+    padding: 70px;
+}
+#clas{
+    font-size: 20px;
+}
+.plan{
+    padding-top: 30px;
+}
+#cont{
+
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+.time{
+    opacity: 0.5;
+    font-size: 0.75;
+    padding: 0;
+}
+a{
+    color: rgb(209, 131, 223);
+}
